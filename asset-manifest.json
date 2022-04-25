@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/factotum-red/static/css/main.fbb0edc7.css",
-    "main.js": "/factotum-red/static/js/main.074e3271.js",
+    "main.css": "/factotum-red/static/css/main.b63d4f4b.css",
+    "main.js": "/factotum-red/static/js/main.4d55fd3f.js",
     "static/js/787.dd1996f1.chunk.js": "/factotum-red/static/js/787.dd1996f1.chunk.js",
+    "static/media/8.jpg": "/factotum-red/static/media/8.565ee0691a4e82294a8a.jpg",
+    "static/media/5.jpg": "/factotum-red/static/media/5.d370d34e39176d564d09.jpg",
+    "static/media/6.jpg": "/factotum-red/static/media/6.0c361cadb4efa6dd1f0e.jpg",
+    "static/media/9.jpg": "/factotum-red/static/media/9.93e5e7c7e9b1ac49a98f.jpg",
+    "static/media/1.jpg": "/factotum-red/static/media/1.5c09a40c04c764eaa372.jpg",
+    "static/media/11.jpg": "/factotum-red/static/media/11.93b5c97ab409f5966a35.jpg",
+    "static/media/4.jpg": "/factotum-red/static/media/4.d6a7fed1506036c570ea.jpg",
+    "static/media/7.jpg": "/factotum-red/static/media/7.040c6079aabd74b839b5.jpg",
+    "static/media/3.jpg": "/factotum-red/static/media/3.9b2d2d97f19a95e799d2.jpg",
+    "static/media/12.jpg": "/factotum-red/static/media/12.9f6a1148c1e39e787f15.jpg",
+    "static/media/2.jpg": "/factotum-red/static/media/2.a72efd18972301d3ffd4.jpg",
+    "static/media/10.jpg": "/factotum-red/static/media/10.7965c70a8e8e0f23278e.jpg",
     "static/media/header logo.png": "/factotum-red/static/media/header logo.9c2871a6bed82c4c12a9.png",
     "index.html": "/factotum-red/index.html",
-    "main.fbb0edc7.css.map": "/factotum-red/static/css/main.fbb0edc7.css.map",
-    "main.074e3271.js.map": "/factotum-red/static/js/main.074e3271.js.map",
+    "main.b63d4f4b.css.map": "/factotum-red/static/css/main.b63d4f4b.css.map",
+    "main.4d55fd3f.js.map": "/factotum-red/static/js/main.4d55fd3f.js.map",
     "787.dd1996f1.chunk.js.map": "/factotum-red/static/js/787.dd1996f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbb0edc7.css",
-    "static/js/main.074e3271.js"
+    "static/css/main.b63d4f4b.css",
+    "static/js/main.4d55fd3f.js"
   ]
 }
