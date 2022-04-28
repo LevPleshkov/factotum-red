@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/factotum-red/static/css/main.42ced955.css",
-    "main.js": "/factotum-red/static/js/main.4b713789.js",
+    "main.css": "/factotum-red/static/css/main.f73c7e69.css",
+    "main.js": "/factotum-red/static/js/main.cfa47068.js",
     "static/js/787.dd1996f1.chunk.js": "/factotum-red/static/js/787.dd1996f1.chunk.js",
     "static/media/8.jpg": "/factotum-red/static/media/8.565ee0691a4e82294a8a.jpg",
     "static/media/5.jpg": "/factotum-red/static/media/5.d370d34e39176d564d09.jpg",
@@ -17,12 +17,12 @@
     "static/media/10.jpg": "/factotum-red/static/media/10.7965c70a8e8e0f23278e.jpg",
     "static/media/header logo.png": "/factotum-red/static/media/header logo.9c2871a6bed82c4c12a9.png",
     "index.html": "/factotum-red/index.html",
-    "main.42ced955.css.map": "/factotum-red/static/css/main.42ced955.css.map",
-    "main.4b713789.js.map": "/factotum-red/static/js/main.4b713789.js.map",
+    "main.f73c7e69.css.map": "/factotum-red/static/css/main.f73c7e69.css.map",
+    "main.cfa47068.js.map": "/factotum-red/static/js/main.cfa47068.js.map",
     "787.dd1996f1.chunk.js.map": "/factotum-red/static/js/787.dd1996f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42ced955.css",
-    "static/js/main.4b713789.js"
+    "static/css/main.f73c7e69.css",
+    "static/js/main.cfa47068.js"
   ]
 }
