@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/factotum-red/static/css/main.f73c7e69.css",
+    "main.css": "/factotum-red/static/css/main.1aae507e.css",
     "main.js": "/factotum-red/static/js/main.4d2368cb.js",
     "static/js/787.dd1996f1.chunk.js": "/factotum-red/static/js/787.dd1996f1.chunk.js",
     "static/media/8.jpg": "/factotum-red/static/media/8.565ee0691a4e82294a8a.jpg",
@@ -17,12 +17,12 @@
     "static/media/10.jpg": "/factotum-red/static/media/10.7965c70a8e8e0f23278e.jpg",
     "static/media/header logo.png": "/factotum-red/static/media/header logo.9c2871a6bed82c4c12a9.png",
     "index.html": "/factotum-red/index.html",
-    "main.f73c7e69.css.map": "/factotum-red/static/css/main.f73c7e69.css.map",
+    "main.1aae507e.css.map": "/factotum-red/static/css/main.1aae507e.css.map",
     "main.4d2368cb.js.map": "/factotum-red/static/js/main.4d2368cb.js.map",
     "787.dd1996f1.chunk.js.map": "/factotum-red/static/js/787.dd1996f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f73c7e69.css",
+    "static/css/main.1aae507e.css",
     "static/js/main.4d2368cb.js"
   ]
 }
